@@ -1,0 +1,11 @@
+This is part of the data from Pavel Dodonov's PhD thesis, used for a blog post at anotherecoblog.wordpress.com		
+The data refers to species identity and height in 1x1 m contiguous quadrats in a cerrado area in São Carlos, SP, Brazil.		
+Quadrats		This spreadsheet contains the raw data obtained for each quadrat
+	Distance	Quadrat identity, as distance along the transect
+	Species	Species name
+	Hmax	Maximum height of this species in the quadrat (cm)
+Species		This spreadsheet contains information on the species sampled
+	Species	Species name, same as in the Quadrats spreadsheet
+	Family	Botanical family of the species
+	Lifeform	Fern, Graminoid, Herbaceous, Vine or Woody
+	Disp	Dispersal syndrome: animal-, wind- or self-dispersed, or if the species was planted there by humans (for eucalypts)
