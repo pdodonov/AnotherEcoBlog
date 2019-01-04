@@ -1,0 +1,370 @@
+Personagem	Ordem	Saga	Poder
+Goku	1	1	42
+Yamcha	2	1	34
+Krilin	3	1	32
+Ox Satan	4	1	65
+Kame	5	1	120
+Bacterian	6	1	NA
+Lanfan	7	1	NA
+Giran	8	1	NA
+Nam	9	1	NA
+Coronel Silver	10	1	NA
+General White	11	1	NA
+General Blue	12	1	NA
+General Black	13	1	NA
+Robô de Combate	14	1	NA
+Sargento Metálico	15	1	NA
+Ninja Púrpura	16	1	NA
+Octavio	17	1	NA
+Buyon	18	1	NA
+Robô Pirata	19	1	NA
+Bora	20	1	NA
+Tao Pai Pai	21	1	NA
+Mestre Karin	22	1	NA
+Son Gohan	23	1	NA
+Draculaman	24	1	NA
+Homem Invisível	25	1	NA
+Múmia Guerreira	26	1	NA
+Akkuman	27	1	NA
+Tsuru	28	1	NA
+Ten Shin Han	29	1	NA
+Rey Chapa	30	1	NA
+Chaoz	31	1	NA
+Homem Lobo	32	1	NA
+Panputt	33	1	NA
+Yajirobe	34	1	NA
+Piccolo Daimaku	35	1	NA
+Cymbal	36	1	NA
+Tambourine	37	1	NA
+Drum	38	1	NA
+Mr. Popo	39	1	NA
+Kami sama	40	1	NA
+Chichi	41	1	NA
+Goku	1	2	86
+Yamcha	2	2	57
+Krilin	3	2	68
+Ox Satan	4	2	NA
+Kame	5	2	132
+Bacterian	6	2	20
+Lanfan	7	2	36
+Giran	8	2	60
+Nam	9	2	70
+Coronel Silver	10	2	NA
+General White	11	2	NA
+General Blue	12	2	NA
+General Black	13	2	NA
+Robô de Combate	14	2	NA
+Sargento Metálico	15	2	NA
+Ninja Púrpura	16	2	NA
+Octavio	17	2	NA
+Buyon	18	2	NA
+Robô Pirata	19	2	NA
+Bora	20	2	NA
+Tao Pai Pai	21	2	NA
+Mestre Karin	22	2	NA
+Son Gohan	23	2	NA
+Draculaman	24	2	NA
+Homem Invisível	25	2	NA
+Múmia Guerreira	26	2	NA
+Akkuman	27	2	NA
+Tsuru	28	2	NA
+Ten Shin Han	29	2	NA
+Rey Chapa	30	2	NA
+Chaoz	31	2	NA
+Homem Lobo	32	2	NA
+Panputt	33	2	NA
+Yajirobe	34	2	NA
+Piccolo Daimaku	35	2	NA
+Cymbal	36	2	NA
+Tambourine	37	2	NA
+Drum	38	2	NA
+Mr. Popo	39	2	NA
+Kami sama	40	2	NA
+Chichi	41	2	NA
+Goku	1	3	89
+Yamcha	2	3	NA
+Krilin	3	3	68
+Ox Satan	4	3	NA
+Kame	5	3	NA
+Bacterian	6	3	NA
+Lanfan	7	3	NA
+Giran	8	3	NA
+Nam	9	3	NA
+Coronel Silver	10	3	38
+General White	11	3	24
+General Blue	12	3	71
+General Black	13	3	17
+Robô de Combate	14	3	98
+Sargento Metálico	15	3	83
+Ninja Púrpura	16	3	35
+Octavio	17	3	104
+Buyon	18	3	62
+Robô Pirata	19	3	81
+Bora	20	3	60
+Tao Pai Pai	21	3	NA
+Mestre Karin	22	3	NA
+Son Gohan	23	3	NA
+Draculaman	24	3	NA
+Homem Invisível	25	3	NA
+Múmia Guerreira	26	3	NA
+Akkuman	27	3	NA
+Tsuru	28	3	NA
+Ten Shin Han	29	3	NA
+Rey Chapa	30	3	NA
+Chaoz	31	3	NA
+Homem Lobo	32	3	NA
+Panputt	33	3	NA
+Yajirobe	34	3	NA
+Piccolo Daimaku	35	3	NA
+Cymbal	36	3	NA
+Tambourine	37	3	NA
+Drum	38	3	NA
+Mr. Popo	39	3	NA
+Kami sama	40	3	NA
+Chichi	41	3	NA
+Goku	1	4	125
+Yamcha	2	4	NA
+Krilin	3	4	NA
+Ox Satan	4	4	NA
+Kame	5	4	NA
+Bacterian	6	4	NA
+Lanfan	7	4	NA
+Giran	8	4	NA
+Nam	9	4	NA
+Coronel Silver	10	4	NA
+General White	11	4	NA
+General Blue	12	4	NA
+General Black	13	4	NA
+Robô de Combate	14	4	NA
+Sargento Metálico	15	4	NA
+Ninja Púrpura	16	4	NA
+Octavio	17	4	NA
+Buyon	18	4	NA
+Robô Pirata	19	4	NA
+Bora	20	4	NA
+Tao Pai Pai	21	4	110
+Mestre Karin	22	4	135
+Son Gohan	23	4	NA
+Draculaman	24	4	NA
+Homem Invisível	25	4	NA
+Múmia Guerreira	26	4	NA
+Akkuman	27	4	NA
+Tsuru	28	4	NA
+Ten Shin Han	29	4	NA
+Rey Chapa	30	4	NA
+Chaoz	31	4	NA
+Homem Lobo	32	4	NA
+Panputt	33	4	NA
+Yajirobe	34	4	NA
+Piccolo Daimaku	35	4	NA
+Cymbal	36	4	NA
+Tambourine	37	4	NA
+Drum	38	4	NA
+Mr. Popo	39	4	NA
+Kami sama	40	4	NA
+Chichi	41	4	NA
+Goku	1	5	125
+Yamcha	2	5	58
+Krilin	3	5	70
+Ox Satan	4	5	NA
+Kame	5	5	NA
+Bacterian	6	5	NA
+Lanfan	7	5	NA
+Giran	8	5	NA
+Nam	9	5	NA
+Coronel Silver	10	5	NA
+General White	11	5	NA
+General Blue	12	5	NA
+General Black	13	5	NA
+Robô de Combate	14	5	NA
+Sargento Metálico	15	5	NA
+Ninja Púrpura	16	5	NA
+Octavio	17	5	NA
+Buyon	18	5	NA
+Robô Pirata	19	5	NA
+Bora	20	5	NA
+Tao Pai Pai	21	5	NA
+Mestre Karin	22	5	NA
+Son Gohan	23	5	123
+Draculaman	24	5	67
+Homem Invisível	25	5	40
+Múmia Guerreira	26	5	75
+Akkuman	27	5	106
+Tsuru	28	5	NA
+Ten Shin Han	29	5	NA
+Rey Chapa	30	5	NA
+Chaoz	31	5	NA
+Homem Lobo	32	5	NA
+Panputt	33	5	NA
+Yajirobe	34	5	NA
+Piccolo Daimaku	35	5	NA
+Cymbal	36	5	NA
+Tambourine	37	5	NA
+Drum	38	5	NA
+Mr. Popo	39	5	NA
+Kami sama	40	5	NA
+Chichi	41	5	NA
+Goku	1	6	150
+Yamcha	2	6	102
+Krilin	3	6	115
+Ox Satan	4	6	NA
+Kame	5	6	139
+Bacterian	6	6	NA
+Lanfan	7	6	NA
+Giran	8	6	NA
+Nam	9	6	NA
+Coronel Silver	10	6	NA
+General White	11	6	NA
+General Blue	12	6	NA
+General Black	13	6	NA
+Robô de Combate	14	6	NA
+Sargento Metálico	15	6	NA
+Ninja Púrpura	16	6	NA
+Octavio	17	6	NA
+Buyon	18	6	NA
+Robô Pirata	19	6	NA
+Bora	20	6	NA
+Tao Pai Pai	21	6	NA
+Mestre Karin	22	6	NA
+Son Gohan	23	6	NA
+Draculaman	24	6	NA
+Homem Invisível	25	6	NA
+Múmia Guerreira	26	6	NA
+Akkuman	27	6	NA
+Tsuru	28	6	120
+Ten Shin Han	29	6	145
+Rey Chapa	30	6	91
+Chaoz	31	6	94
+Homem Lobo	32	6	19
+Panputt	33	6	62
+Yajirobe	34	6	NA
+Piccolo Daimaku	35	6	NA
+Cymbal	36	6	NA
+Tambourine	37	6	NA
+Drum	38	6	NA
+Mr. Popo	39	6	NA
+Kami sama	40	6	NA
+Chichi	41	6	NA
+Goku	1	7	153
+Yamcha	2	7	NA
+Krilin	3	7	NA
+Ox Satan	4	7	NA
+Kame	5	7	NA
+Bacterian	6	7	NA
+Lanfan	7	7	NA
+Giran	8	7	NA
+Nam	9	7	NA
+Coronel Silver	10	7	NA
+General White	11	7	NA
+General Blue	12	7	NA
+General Black	13	7	NA
+Robô de Combate	14	7	NA
+Sargento Metálico	15	7	NA
+Ninja Púrpura	16	7	NA
+Octavio	17	7	NA
+Buyon	18	7	NA
+Robô Pirata	19	7	NA
+Bora	20	7	NA
+Tao Pai Pai	21	7	NA
+Mestre Karin	22	7	NA
+Son Gohan	23	7	NA
+Draculaman	24	7	NA
+Homem Invisível	25	7	NA
+Múmia Guerreira	26	7	NA
+Akkuman	27	7	NA
+Tsuru	28	7	NA
+Ten Shin Han	29	7	NA
+Rey Chapa	30	7	NA
+Chaoz	31	7	NA
+Homem Lobo	32	7	NA
+Panputt	33	7	NA
+Yajirobe	34	7	87
+Piccolo Daimaku	35	7	210
+Cymbal	36	7	82
+Tambourine	37	7	137
+Drum	38	7	178
+Mr. Popo	39	7	NA
+Kami sama	40	7	NA
+Chichi	41	7	NA
+Goku	1	8	260
+Yamcha	2	8	NA
+Krilin	3	8	NA
+Ox Satan	4	8	NA
+Kame	5	8	NA
+Bacterian	6	8	NA
+Lanfan	7	8	NA
+Giran	8	8	NA
+Nam	9	8	NA
+Coronel Silver	10	8	NA
+General White	11	8	NA
+General Blue	12	8	NA
+General Black	13	8	NA
+Robô de Combate	14	8	NA
+Sargento Metálico	15	8	NA
+Ninja Púrpura	16	8	NA
+Octavio	17	8	NA
+Buyon	18	8	NA
+Robô Pirata	19	8	NA
+Bora	20	8	NA
+Tao Pai Pai	21	8	NA
+Mestre Karin	22	8	NA
+Son Gohan	23	8	NA
+Draculaman	24	8	NA
+Homem Invisível	25	8	NA
+Múmia Guerreira	26	8	NA
+Akkuman	27	8	NA
+Tsuru	28	8	NA
+Ten Shin Han	29	8	NA
+Rey Chapa	30	8	NA
+Chaoz	31	8	NA
+Homem Lobo	32	8	NA
+Panputt	33	8	NA
+Yajirobe	34	8	NA
+Piccolo Daimaku	35	8	260
+Cymbal	36	8	NA
+Tambourine	37	8	NA
+Drum	38	8	NA
+Mr. Popo	39	8	288
+Kami sama	40	8	310
+Chichi	41	8	NA
+Goku	1	9	368
+Yamcha	2	9	164
+Krilin	3	9	195
+Ox Satan	4	9	NA
+Kame	5	9	NA
+Bacterian	6	9	NA
+Lanfan	7	9	NA
+Giran	8	9	NA
+Nam	9	9	NA
+Coronel Silver	10	9	NA
+General White	11	9	NA
+General Blue	12	9	NA
+General Black	13	9	NA
+Robô de Combate	14	9	NA
+Sargento Metálico	15	9	NA
+Ninja Púrpura	16	9	NA
+Octavio	17	9	NA
+Buyon	18	9	NA
+Robô Pirata	19	9	NA
+Bora	20	9	NA
+Tao Pai Pai	21	9	152
+Mestre Karin	22	9	NA
+Son Gohan	23	9	NA
+Draculaman	24	9	NA
+Homem Invisível	25	9	NA
+Múmia Guerreira	26	9	NA
+Akkuman	27	9	NA
+Tsuru	28	9	NA
+Ten Shin Han	29	9	236
+Rey Chapa	30	9	108
+Chaoz	31	9	122
+Homem Lobo	32	9	NA
+Panputt	33	9	NA
+Yajirobe	34	9	NA
+Piccolo Daimaku	35	9	364
+Cymbal	36	9	NA
+Tambourine	37	9	NA
+Drum	38	9	NA
+Mr. Popo	39	9	NA
+Kami sama	40	9	310
+Chichi	41	9	47

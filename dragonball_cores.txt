@@ -1,0 +1,42 @@
+Personagem	Cor
+Goku	blue
+Yamcha	blue
+Krilin	blue
+Ox Satan	blue
+Kame	blue
+Bacterian	purple
+Lanfan	purple
+Giran	purple
+Nam	purple
+Coronel Silver	red
+General White	red
+General Blue	red
+General Black	red
+Robô de Combate	red
+Sargento Metálico	red
+Ninja Púrpura	red
+Octavio	blue
+Buyon	red
+Robô Pirata	red
+Bora	blue
+Tao Pai Pai	red
+Mestre Karin	yellow
+Son Gohan	red
+Draculaman	gray
+Homem Invisível	gray
+Múmia Guerreira	gray
+Akkuman	gray
+Tsuru	yellow
+Ten Shin Han	blue
+Rey Chapa	purple
+Chaoz	blue
+Homem Lobo	purple
+Panputt	purple
+Yajirobe	yellow
+Piccolo Daimaku	green
+Cymbal	green
+Tambourine	green
+Drum	green
+Mr. Popo	yellow
+Kami sama	yellow
+Chichi	blue
